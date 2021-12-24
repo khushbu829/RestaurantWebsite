@@ -1,11 +1,9 @@
 body{
     /* text-align: center; */
-    /* background-color: rgb(129, 126, 126); */
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
     Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
     background-image:url(https://jolly-kalam-23776e.netlify.app/restaurantwebsite/assets/images/topography.svg)
     ,linear-gradient(110deg, #f8076b, #823ae0);
-    /* background-image:url("./images/topography.svg"),linear-gradient(110deg, #f93d66, #6d47d9); */
 }
 .cont{
     margin: 40px;
@@ -44,7 +42,6 @@ header{
     display: flex;
     flex-direction: column;
     height: 30em;
-    /* align-items: center; */
     justify-content: center;
     padding-left: 5em;
 }
@@ -63,13 +60,11 @@ header h1, header p{
 .prices div{
     background-color:#ffc600 ;
     text-align: center;
-    /* margin: 10px; */
     font-weight: 800;
     padding: 4em;
 
 }
 .prices p{
-    /* padding: 0px; */
     margin: 0px;
 }
 .prices .price{
